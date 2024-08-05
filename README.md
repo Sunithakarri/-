@@ -61,6 +61,3 @@ Choose the "GitHub" tab and enter your repository URL:  https://github.com/Sunit
 Select the notebook and follow the instructions provided in each section.
 Contributing
 We welcome contributions! If you have suggestions or improvements, please fork the repository, create a new branch, and submit a pull request. You can also open an issue for any bugs or feature requests.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
